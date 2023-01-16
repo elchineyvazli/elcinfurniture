@@ -1,0 +1,10 @@
+@import '../../variables';
+
+.delivery {
+    width: 100%;
+    height: 150px;
+    background-color: $delivery-color;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
